@@ -1,0 +1,44 @@
+* {
+	font-family: Helvetica, Arial, sans-serif;
+	box-sizing: border-box;
+	
+}
+
+.main-page{
+	background-image: url("http://www.invisiblegamer.net/wp-content/uploads/2015/01/ZELDA1-header.jpg")
+}
+
+.button-div{
+	
+	border: 3px solid black;
+	height: 50px;
+	width: 100px;
+	font-size: 10px;
+	padding: 12px;
+	text-align:center;
+	margin: 0px 20px 10px 20px;
+	cursor: pointer;
+	font-weight: bold;
+	color:white;
+
+}
+
+
+
+.buttons{
+	width: 70%;
+	display: inline-block;
+
+}
+
+.stats{
+	display:inline-block;
+	text-align: center;
+	width: 29.9%;
+	height: 100%;
+	vertical-align: top;
+	border: 3px solid black;
+	color: white;
+	font-weight: bold;
+}
+	
